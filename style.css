@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+.photo_profile img {
+    position: center;
+    width: 150px; 
+    height: auto;
+    border-radius: 10%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+#header {
+    text-align: center; 
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0; 
+}
